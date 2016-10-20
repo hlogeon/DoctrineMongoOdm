@@ -1,5 +1,5 @@
 {
-    "name": "hlogeon/doctrine-mongo-odm",
+    "name": "hlogeon/codeception-doctrine-mongo",
     "description": "Module provides Codeception integration with Doctrine MongoDB ODM",
     "authors": [
         {
