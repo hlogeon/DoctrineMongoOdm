@@ -314,7 +314,7 @@ EOF;
         }
     }
 
-    public function _getDocumentManager()
+    public function _getEntityManager()
     {
         return $this->dm;
     }
