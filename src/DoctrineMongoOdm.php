@@ -318,4 +318,12 @@ EOF;
     {
         return $this->dm;
     }
+
+    /**
+     * @return \Doctrine\Common\Persistence\ObjectManager
+     */
+    public function getDocumentManager()
+    {
+        return $this->dm;
+    }
 }
